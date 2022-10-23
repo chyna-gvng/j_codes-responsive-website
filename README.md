@@ -1,5 +1,5 @@
 ### Responsive Outdoor Website
-### Tools
+### Languages
 - HTML5
 - CSS3
 - JavaScript
